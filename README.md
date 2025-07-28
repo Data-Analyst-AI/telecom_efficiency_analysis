@@ -1,7 +1,7 @@
-<span style="font-size:26px; font-weight:bold;">Telecom Efficiency Analysis</span>
+# Telecom Efficiency Analysis
 Operational analysis in telecommunications to detect performance deviations among operators, using descriptive metrics, dynamic visualizations, and statistical testing.
 
-<span style="font-size:24px; font-weight:bold;">Project Objective</span>
+## Project Objective
 
 Identify inefficient operators through the analysis of:
 - High rates of missed calls and long wait times  

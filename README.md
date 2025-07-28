@@ -1,8 +1,20 @@
 # Telecom Efficiency Analysis
+Operational analysis in telecommunications to detect performance deviations among operators, using descriptive metrics, dynamic visualizations, and statistical testing.
 
+## Project Objective
+
+Identify inefficient operators through the analysis of:
+- High rates of missed calls and long wait times  
+- Low engagement in outbound calls  
+- Statistical segmentation by percentiles (25th and 75th)  
+- Hypothesis testing to validate operational impact
+
+---
+
+### Análisis de Eficiencia en Telecomunicacione
 Análisis operativo en telecomunicaciones para detectar desviaciones en el desempeño de operadores, usando métricas descriptivas, visualizaciones dinámicas y pruebas estadísticas.
 
-## Objetivo del proyecto
+Objetivo del proyecto
 
 Identificar operadores ineficientes mediante el análisis de:
 - Llamadas perdidas y tiempos de espera elevados
